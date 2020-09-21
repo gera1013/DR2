@@ -1,5 +1,5 @@
 # DR2
-Renderización de esferas implementando un Phong Reflection.
+Implementación de Ray Tracing. Renderización de esferas implementando un Phong Reflection.
 
 ## Ejecución
 1. Descargar los archivos del repositorio.
@@ -7,4 +7,5 @@ Renderización de esferas implementando un Phong Reflection.
 
 ## Resultados
 Se generará un archivo con el nombre snowman.bmp, el cual deberá verse de la siguiente manera:
+
 ![snowman](https://i.imgur.com/tVfVbHW.png)
